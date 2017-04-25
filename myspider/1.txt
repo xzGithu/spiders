@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+passport.jd.com	FALSE	/	FALSE		_nttkNIe	oGHQNMWlt5JNdEWK1esY7xrtvDxJrqQJ/LRz28h/De8=
+passport.jd.com	FALSE	/	FALSE		alc	ppAdVz6T/Ux9rO7o9ON72w==
+passport.jd.com	FALSE	/	FALSE		qr_t	c
